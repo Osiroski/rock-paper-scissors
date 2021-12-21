@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissors-master",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osiroski/rock-paper-scissors.git"
+  },
+  "author": "Noel Osiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osiroski/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/Osiroski/rock-paper-scissors#readme"
+}
